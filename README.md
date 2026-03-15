@@ -35,5 +35,5 @@ Facilitar el aprendizaje y la implementación de soluciones con **Google Apps Sc
 Si tienes sugerencias, mejoras o deseas contribuir con nuevos laboratorios, ¡eres bienvenido/a! Puedes abrir un **issue** o enviar un **pull request**.
 
 ---
-**Autor:** Valery 🖥️🚀  
-**Última Actualización:** [17/03/25]
+**Autor:** Harp 🖥️🚀  
+**Última Actualización:** [15/03/26]
